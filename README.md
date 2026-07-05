@@ -1,4 +1,3 @@
-<!-- Encabezado con GIF -->
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGpxbm12OWdlaTFtZHVkaG8yNmt4OXM1eGhmZWN2djlsOGt2dXBvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Godtj62ewycxy/giphy.gif" width="400" alt="One Piece GIF" />
 </p>
