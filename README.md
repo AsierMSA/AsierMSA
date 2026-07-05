@@ -38,16 +38,10 @@ Apasionado por el **Big Data**, la **Inteligencia Artificial** y el **Cloud Comp
   <a href="https://twitter.com/tuusuario" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://github.com/AsierMSA" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
-## 📊 Estadísticas de GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsierMSA&show_icons=true&theme=radical" alt="Estadísticas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsierMSA&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdocnN3MnNyMzA3MXA0Z3NqZjhhYjBrY29xbWhkbGduYzZobnQyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kWKvsIQeV7OGAcxdZn/giphy.gif" width="400" alt="One Piece GIF" />
 </p>
 
----
-
 <p align="center">
-  <i>"El viaje hacia el conocimiento es como el Grand Line: lleno de desafíos, pero cada isla te enseña algo nuevo."</i> 🏴‍☠️
+  <i>"Tatakae"</i> 🏴‍☠️
 </p>
